@@ -1,4 +1,4 @@
-#hackerrank C# question
+#hackerrank algorithms question
 
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
